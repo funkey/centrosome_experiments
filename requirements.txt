@@ -1,0 +1,5 @@
+torch
+gunpowder
+zarr
+cython
+git+git://github.com/funkelab/funlib.learn.torch#egg=funlib.learn.torch
